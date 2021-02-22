@@ -1,0 +1,17 @@
+#quotes-header{
+    background-color: rgb(187, 205, 236);
+}
+
+#quotes-card-body{
+    background-color: rgb(225, 247, 247);
+}
+
+#quotes-header{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+#tweet-quote{
+    background-color: #0dd1fd;
+    border-color: #0dd1fd;
+}
